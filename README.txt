@@ -1,0 +1,6 @@
+下载数据集可以在https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz中进行
+首先运行data_read.py文件可读取数据集
+第二步data_split.py文件进行分类
+之后运行train_model.py进行训练
+训练好模型之后test_model.py进行测试
+最终可以运行windows.py即可使用交互界面
