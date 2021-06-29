@@ -4,3 +4,4 @@
 之后运行train_model.py进行训练
 训练好模型之后test_model.py进行测试
 最终可以运行windows.py即可使用交互界面
+出现bug请自行调整（tensorflow版本问题或者文件路径问题是最常出现的问题）
